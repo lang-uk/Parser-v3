@@ -11,3 +11,4 @@ saves/
 
 # Debug information
 *.log
+.DS_Store
